@@ -1,0 +1,14 @@
+D:\Users\20231170150029\Desktop\cecilia.prova\bin\Debug\net8.0\cecilia.prova.exe
+D:\Users\20231170150029\Desktop\cecilia.prova\bin\Debug\net8.0\cecilia.prova.deps.json
+D:\Users\20231170150029\Desktop\cecilia.prova\bin\Debug\net8.0\cecilia.prova.runtimeconfig.json
+D:\Users\20231170150029\Desktop\cecilia.prova\bin\Debug\net8.0\cecilia.prova.dll
+D:\Users\20231170150029\Desktop\cecilia.prova\bin\Debug\net8.0\cecilia.prova.pdb
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\cecilia.prova.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\cecilia.prova.AssemblyInfoInputs.cache
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\cecilia.prova.AssemblyInfo.cs
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\cecilia.prova.csproj.CoreCompileInputs.cache
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\cecilia.prova.dll
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\refint\cecilia.prova.dll
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\cecilia.prova.pdb
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\cecilia.prova.genruntimeconfig.cache
+D:\Users\20231170150029\Desktop\cecilia.prova\obj\Debug\net8.0\ref\cecilia.prova.dll

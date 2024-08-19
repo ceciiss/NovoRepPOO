@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "cecilia.prova/1.0.0": {
+        "runtime": {
+          "cecilia.prova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cecilia.prova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
